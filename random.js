@@ -1,1 +1,5 @@
-console.log("Testing new PR change");
+function testingRandomData() {
+  console.log("Hello world")
+}
+
+testingRandomData()
